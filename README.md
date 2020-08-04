@@ -6,4 +6,4 @@ Files used on the term project for SCS_3547_006 Intelligent Agents and Reinforce
 <b>Instructions</b>
 Dowload files and run main.py
 <br>
-
+<img class="img-responsive" src = "https://elasticbeanstalk-us-east-1-778754117527.s3.amazonaws.com/mcts.jpg" width="400"/>
