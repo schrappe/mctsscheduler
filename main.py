@@ -1,7 +1,7 @@
 #----------------------------------------------------------------------------------------------
 # Monte Carlo Tree Search Algorithm Applied to Industrial Scheduling
 # Application developed by Bruno Schrappe as a term project for
-# CS_3547_006 Intelligent Agents and Reinforcement Learning - Prof. Larry Simon - August 2020
+# SCS_3547_006 Intelligent Agents and Reinforcement Learning - Prof. Larry Simon - August 2020
 #----------------------------------------------------------------------------------------------
 
 import json
